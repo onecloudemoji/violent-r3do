@@ -1,0 +1,7 @@
+admin
+root
+toor
+password
+machinehead
+password1
+12345
